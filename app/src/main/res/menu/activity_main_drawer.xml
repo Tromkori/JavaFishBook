@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_fish"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_fish" />
+        <item
+            android:id="@+id/nav_rigging"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_rigging" />
+        <item
+            android:id="@+id/nav_bait"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/menu_bait" />
+        <item
+            android:id="@+id/nav_plant_food"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/menu_plant_food" />
+    </group>
+    <item android:title="@string/various">
+        <menu>
+            <item
+                android:id="@+id/nav_fishing_stories"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/fishing_stories" />
+            <item
+                android:id="@+id/nav_tip"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/tip" />
+        </menu>
+    </item>
+</menu>

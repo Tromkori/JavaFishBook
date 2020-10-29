@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Хранение данных -->
+<resources>
+    <string-array name="fish_array">
+        <item> Сом </item>
+        <item> Налим </item>
+        <item> Щука </item>
+        <item> Карась </item>
+    </string-array>
+    <string-array name="bait_array">
+        <item> Манки </item>
+        <item> Хлебная приманка </item>
+        <item> Дождевой червь </item>
+        <item> Апарыши </item>
+    </string-array>
+    <string-array name="rigging_array">
+        <item> Поплавочная удочка </item>
+        <item> Спиннинг </item>
+        <item> Фидер </item>
+        <item> Донка </item>
+    </string-array>
+    <string-array name="plant_food_array">
+        <item> Прикормка для верховой рыбы </item>
+        <item> Прикормка для белой рыбы </item>
+        <item> Специальная прикормка для леща </item>
+        <item> Специальная прикормка для карпа </item>
+    </string-array>
+    <string-array name="tip_array">
+        <item>Рыбохозяйственные бассейны и водные объекты рыбохозяйственного значения</item>
+        <item>Сроки нерестового запрета по регионам РФ</item>
+    </string-array>
+    <string-array name="fishing_stories_array">
+        <item>Рыбалка осенью</item>
+        <item>Как варить раков правильно и вкусно</item>
+    </string-array>
+
+</resources>
